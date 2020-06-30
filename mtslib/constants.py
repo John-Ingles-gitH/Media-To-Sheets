@@ -1,0 +1,5 @@
+GOOGLESHEETS_SCOPE='https://spreadsheets.google.com/feeds'
+GOOGLEDRIVE_SCOPE='https://www.googleapis.com/auth/drive'
+SECRET='client_secret.json'
+DOC_NAME='Inventory - Shared'
+MOVIE_UPDATE_RANGE='K2:M101'

@@ -1,0 +1,8 @@
+desktop.ini
+.vscode
+client_secret.json
+*_cover
+*.csv
+*.xlsx
+config.py
+*.pyc
